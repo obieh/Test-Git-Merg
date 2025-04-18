@@ -13,5 +13,5 @@ temp = x
 x = y
 y = temp
 
-print(f"The value of x after swapping is {x}")
-print('The value of y after swapping: {}'.format(y))
+print('The value of x after swapping: {}'.format(x))
+print(f"The value of y after swapping is {y}")
