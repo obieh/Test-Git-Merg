@@ -14,4 +14,4 @@ x = y
 y = temp
 
 print(f'The value of x after swapping is {x}')
-print(f"The value of y after swapping is {y}")
+print(f"The value of y after swapping is {y}") #Changes made by developer-B
