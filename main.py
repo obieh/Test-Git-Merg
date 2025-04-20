@@ -13,5 +13,5 @@ temp = x
 x = y
 y = temp
 
-print(f'The value of x after swapping is {x}') #Changes made by developer-A
+print(f'The value of x after swapping is {x}')
 print(f"The value of y after swapping is {y}")
